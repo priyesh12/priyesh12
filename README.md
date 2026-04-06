@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Priyesh Gupta 👋
 
-<!--
-**priyesh12/priyesh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quant Builder | Markets · Models · Systems
 
-Here are some ideas to get you started:
+I build **data-driven systems for financial markets** — focused on  
+**alpha discovery, portfolio intelligence, and systematic decision-making**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ What I Work On
+- Quant Research & Signal Discovery  
+- Portfolio Optimization Systems  
+- Market Regime & Breadth Analysis  
+- Algorithmic Strategy Design  
+
+---
+
+## 🛠️ Tech
+**Python · SQL · TypeScript · C++**  
+**Pandas · Polars · NumPy · SciPy · Statsmodels**  
+**Scikit-learn · XGBoost · LightGBM · Optuna**  
+**FastAPI · React.js · Next.js · Tailwind**  
+**DuckDB · PostgreSQL · Docker · Git**
+
+---
+
+## ⚡ Philosophy
+> Turn market noise into structured conviction.
+
+---
+
+## 📫 Reach Out
+Interested in quant, markets, or building something serious?
+
+**Reach out → rajpri8852@gmail.com**
